@@ -27,8 +27,8 @@
         compatible = "zmk,combos";
 
         cs {
-            bindings = <&to 0>;
-            key-positions = <39 40 41>;
+            bindings = <&to 3>;
+            key-positions = <27 28 29>;
             layers = <0 1 2 4 3 5>;
         };
 
