@@ -32,9 +32,15 @@
             layers = <0 1 2 4>;
         };
 
-        home {
+        tomacos {
             bindings = <&to 0>;
-            key-positions = <27 28 29>;
+            key-positions = <3 5 4>;
+            layers = <0 1 2 4>;
+        };
+
+        towin {
+            bindings = <&to 5>;
+            key-positions = <15 16 17>;
             layers = <0 1 2 4>;
         };
     };
